@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- JavaScript, Java, Python
+- Java, Python ,JavaScript
 
 ### ⚙️ Backend & Tools
 - Node.js, Express.js, MongoDB, Git
@@ -25,5 +25,11 @@
 - Data Structures & Algorithms  
 - Operating Systems  
 - DBMS  
-- Computer Networks  
+- Computer Networks
+- 
+### 🤖 AIML Fundamentals
+-  Machine Learning (Supervised & Unsupervised Learning)
+-  Deep Learning (Neural Networks, Basics of CNN & RNN)
+-  Generative AI (LLMs, Prompt Engineering, AI Tools)
+
 
