@@ -26,7 +26,7 @@
 - Operating Systems  
 - DBMS  
 - Computer Networks
-- 
+  
 ### 🤖 AIML Fundamentals
 -  Machine Learning (Supervised & Unsupervised Learning)
 -  Deep Learning (Neural Networks, Basics of CNN & RNN)
