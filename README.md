@@ -72,9 +72,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajVerma421&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/RRaj_verma?theme=dark&font=Fira%20Code&ext=heatmap" />
-</p> -->
+</p> 
 
 ---
 
