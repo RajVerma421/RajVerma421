@@ -27,7 +27,6 @@
 - 🌱 Deepening my skills in Node.js, Express & Databases
 - 🧠 Actively solving DSA problems on LeetCode — 230+ problems solved, including Hard-rated DP problems
 - 👯 Open to collaborations, internships & placement opportunities
-- 📫 Reach me at **rajbksc421@gmail.com**
 
 ---
 
