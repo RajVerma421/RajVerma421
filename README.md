@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/raj_verma421/?theme=dark&font=Fira%20Code&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/raj_verma421?theme=dark&font=Fira%20Code&ext=heatmap" />
 </p> 
 
 ---
