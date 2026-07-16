@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/raj-verma-2896282b5/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/RRaj_verma/">
+  <a href="https://leetcode.com/u/raj_verma421/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/RRaj_verma?theme=dark&font=Fira%20Code&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/raj_verma421/?theme=dark&font=Fira%20Code&ext=heatmap" />
 </p> 
 
 ---
